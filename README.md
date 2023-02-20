@@ -37,4 +37,4 @@
 - additional tabs(how to use, license, developer .. etc.)
 - splash screen (2s or 3s?)
 
-# 이 기능들 언제가지 만들지 모름.. 대학은 가야지..
+# 이 기능들 언제지 만들지 모름.. 대학은 가야지..
